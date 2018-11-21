@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.button1 {
+  color: white;
+  background-color: #006dcc;
+}
+
+.button2 {
+  border-radius: 5px;
+  padding: 10px;
+}
+.card {
+  float: left;
+  margin-left: 10px;
+  border: 1px solid silver;
+  box-shadow: 10px 10px 10px grey;
+}
